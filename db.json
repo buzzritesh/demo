@@ -1,14 +1,14 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "articles": [
+    { "id": 1, "title": "Java", "subject": "For beginner" },
+    { "id": 2, "title": "C#", "subject": "Dummies" },
+    { "id": 3, "title": "React", "subject": "Geeks for geeks" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "ritesh"
   }
 }
