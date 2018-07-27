@@ -1,6 +1,6 @@
 {
   "articles": [
-    { "id": 1, "title": "Java", "subject": "For beginner" },
+    { "id": 1, "title": "JAVA", "subject": "For beginner" },
     { "id": 2, "title": "C#", "subject": "Dummies" },
     { "id": 3, "title": "React", "subject": "Geeks for geeks" }
   ],
